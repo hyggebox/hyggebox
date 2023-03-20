@@ -22,20 +22,24 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-18191b?style=flat-square&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-18191b?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-18191b?style=flat-square&logo=css3)
+![CSS3](https://img.shields.io/badge/-SASS-18191b?style=flat-square&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-18191b?style=flat-square&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-18191b?style=flat-square&logo=mysql)
 
 ![Django](https://img.shields.io/badge/-Django-18191b?style=flat-square&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-18191b?style=flat-square&logo=Flask)
-![Vue](https://img.shields.io/badge/-Vue-18191b?style=flat-square&logo=Vue.js)
+![Vue](https://img.shields.io/badge/-Vue.js-18191b?style=flat-square&logo=Vue.js)
+![Vue](https://img.shields.io/badge/-Node.js-18191b?style=flat-square&logo=Node.js)
 
 ## Tools:
 
 ![Git](https://img.shields.io/badge/-Git-18191b?style=flat-square&logo=git)
-![Github](https://img.shields.io/badge/-Github-18191b?style=flat-square&logo=github) 
+![Github](https://img.shields.io/badge/-Github-18191b?style=flat-square&logo=github)
+![Github](https://img.shields.io/badge/-GitLab-18191b?style=flat-square&logo=gitlab) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-18191b?style=flat-square&logo=Bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-18191b?style=flat-square&logo=MongoDB)
 ![Docker](https://img.shields.io/badge/-Docker-18191b?style=flat-square&logo=Docker)
+![Docker](https://img.shields.io/badge/-Kubernetes-18191b?style=flat-square&logo=Kubernetes)
 ![Adobe Products](https://img.shields.io/badge/-Adobe_Products-18191b?style=flat-square&logo=Adobe)
 ![Figma](https://img.shields.io/badge/-Figma-18191b?style=flat-square&logo=Figma)
 
