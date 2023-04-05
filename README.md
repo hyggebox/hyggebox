@@ -50,3 +50,6 @@ Here are some ideas to get you started:
 ## 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyggebox&show_icons=true&theme=transparent&hide=stars)
+
+## Miscellaneous
+![](https://www.codewars.com/users/hyggebox/badges/small)
