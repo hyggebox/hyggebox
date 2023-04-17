@@ -53,3 +53,5 @@ Here are some ideas to get you started:
 
 ## Miscellaneous
 ![](https://www.codewars.com/users/hyggebox/badges/small)
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode:hyggebox-1d1d1f?style=for-the-badge&logo=leetcode)](https://leetcode.com/hyggebox/)
